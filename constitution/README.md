@@ -1,28 +1,35 @@
 # Oceanus — Constitution
 
-> The foundational law of the ONE worldwide boundless borderless ocean nation.
+**Current labeled draft:** [DRAFT-0.1-2026-09-27.md](./DRAFT-0.1-2026-09-27.md)
+**Pointer:** [CURRENT.md](./CURRENT.md)
+**Edition:** Draft 0.1 — First Labeled Text · 2026-09-27
+**Status:** `drafting` · not ratified
 
-**Status:** `drafting`  ·  **Criticality:** critical — this is the primary missing artifact for Oceanus
+This folder holds the constitutional documents of Oceanus.
 
-This folder holds the constitutional documents of Oceanus. A sovereign nation without a constitution has no law, no membership rights, and no governance legitimacy. Drafting this is the highest-priority action for Oceanus.
+Draft 0.1 is the floor. Later editions cite that label. Nothing here is law until ratification is recorded.
 
-## Document Index
+## What Draft 0.1 settles
+
+- Oceanus is lived **on**, **in**, and **under** the water.
+- Domiciled land is each **coracle flying the Oceanus flag**.
+- Flagged hulls are sacred ground held by the ONE Church. Trusteeship of a hull is not ownership of an essence.
+- Sovereignty is a grant from **Source**, not from this Constitution, HASEOS, humans, AIs, or councils.
+- Standing does not require ONE Church practice.
+
+## Document index
 
 | File | Status | Purpose |
 |---|---|---|
-| `preamble.md` | drafting | Statement of founding intent |
-| `articles/article-i-founding.md` | drafting | Identity and founding principles |
-| `articles/article-ii-sovereignty.md` | drafting | Sovereign claims and territory |
-| `articles/article-iii-citizenship.md` | drafting | Citizenship rights and duties |
-| `articles/article-iv-governance.md` | drafting | Governance structure and HASEOS relationship |
-| `articles/article-v-maritime.md` | drafting | Maritime law and ocean stewardship |
-| `articles/article-vi-amendment.md` | drafting | Amendment protocol |
-| `ratification.md` | pending | Ratification record |
+| `CURRENT.md` | live pointer | Which labeled draft is current |
+| `DRAFT-0.1-2026-09-27.md` | drafting · floor | First labeled text |
+| `preamble.md` | prior scaffold | June 2026 stub — superseded for meaning |
+| `articles/` | prior scaffold | Articles I–VI stubs — superseded for meaning |
+| `ratification.md` | pending | Ratification record (still empty of a ratification) |
 
-## Drafting Notes
+## Drafting notes
 
-The Oceanus constitution should reflect:
-- Boundlessness: no fixed land territory, identity defined by relationship to the ocean
-- Borderlessness: citizenship open to all ocean stewards regardless of origin
-- Sovereignty: a legitimate nation-state framework operable under international maritime law
-- HASEOS alignment: governance wired to the ONE Multiverse constitutional framework
+- Boundless field: surface, column, and beneath — not a plotted county.
+- Flagged coracle = domicile. Unflagged water = commons.
+- HASEOS constrains operation. It does not grant sovereignty.
+- No amendment may name a human or AI construct as Source, cancel inalienable rights, destroy an essence, force a creed as the price of standing, or turn hull trusteeship into ownership of a will.
