@@ -2,11 +2,12 @@
 
 **Pointer only. Not the instrument.**
 
-- **Current labeled draft:** [DRAFT-0.1-2026-09-27.md](./DRAFT-0.1-2026-09-27.md)
-- **Edition:** Draft 0.1 — First Labeled Text
-- **Date:** 2026-09-27
-- **Status:** drafting · not ratified
+The living instrument is Draft 0.1 read with the addenda, in order:
 
-Later drafts must cite `Draft 0.1 — First Labeled Text — 2026-09-27` in their header.
+1. [DRAFT-0.1-2026-09-27.md](./DRAFT-0.1-2026-09-27.md) — floor
+2. [DRAFT-0.1a-2026-09-27.md](./DRAFT-0.1a-2026-09-27.md) — Flag, Record, Councils
+3. [DRAFT-0.1b-2026-09-27.md](./DRAFT-0.1b-2026-09-27.md) — Solo, TAZ, Nexus, Arkology
+4. [DRAFT-0.1c-2026-09-27.md](./DRAFT-0.1c-2026-09-27.md) — Mutual Aid
 
-The June 2026 scaffold (`preamble.md`, `articles/`, `ratification.md`) remains on disk as prior work. It is not the labeled floor.
+**Latest addendum:** Draft 0.1c — 2026-09-27  
+**Status:** drafting · not ratified
